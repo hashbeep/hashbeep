@@ -1,4 +1,7 @@
-### Hi there 👋
+### i am a pog rammer
+programmer*
+
+hi i'm hertz, i make things (sometimes) and do things (occasionally)
 
 <!--
 **Modulations/Modulations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
