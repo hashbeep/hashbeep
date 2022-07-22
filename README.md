@@ -19,7 +19,7 @@ Many of my projects hosted here are passion projects and are made out of a desir
     - Repository (Private)
 - **Hackerman:** A multiplayer hacking simulator.
     - Repository (Private)
-- **Maegic:** A WIP mod for Minecraft that introduces.
+- **Maegic:** A WIP mod for Minecraft that introduces new magic-infused technology.
     - [Source Code](https://github.com/Modulations/Maegic)
 - **IT201 Projects:** A catalogue of my work and milestones for my IT201 course.
     - [Project Catalogue](https://hashbeep.itch.io)
