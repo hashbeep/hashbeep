@@ -16,9 +16,9 @@ Many of my projects hosted here are passion projects and are made out of a desir
 ## Projects
 - **Hacknet: Flagged:** An extension for Hacknet that adds a compelling new storyline to follow.
     - [First place winner for Hackerjam v2.](https://store.steampowered.com/news/app/365450/view/2515772501355319473)
-    - [Repository (Private)](https://github.com/Modulations)
+    - Repository (Private)
 - **Hackerman:** A multiplayer hacking simulator.
-    - [Repository (Private)](https://github.com/Modulations)
+    - Repository (Private)
 - **Maegic:** A WIP mod for Minecraft that introduces.
     - [Source Code](https://github.com/Modulations/Maegic)
 - **IT201 Projects:** A catalogue of my work and milestones for my IT201 course.
