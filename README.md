@@ -1,7 +1,33 @@
-### i am a pog rammer
-programmer*
+### My Profile
 
-hi i'm hertz, i make things (sometimes) and do things (occasionally)
+Hi! I'm Hertz, an aspiring software developer.
+
+Many of my projects hosted here are passion projects and are made out of a desire to see my ideas become a reality.
+
+## Links
+- [Website](https://hashbeep.github.io)
+- [Other Works](https://hashbeep.itch.io)
+
+## School Projects
+- IT202
+    - [Final Project](https://lad5-prod.herokuapp.com)
+    - [Repository](https://github.com/Modulations/IT202-003)
+- IS117
+    - [Final Project](https://lad5.github.io/P4/)
+    - [Repositories](https://github.com/lad5)
+
+## Development Experience
+- **Langauges:** Java, JS, C#, C++, PHP
+- **Databases:** MongoDB, SQL
+- **Game Engines:** Unity
+
+## Projects:
+- **Hacknet: Flagged:** An extension for Hacknet that adds a compelling new storyline to follow.
+    - [First place winner for Hackerjam v2.](https://store.steampowered.com/news/app/365450/view/2515772501355319473)
+- **Hackerman:** A multiplayer hacking simulator.
+- **Maegic:** A WIP mod for Minecraft that introduces.
+- **IT202 Bank Project:** The final project of a semester's work for my IT202 course at NJIT.
+- **IS117 Series:** A catalogue of my work across the semester for my IS117 course at NJIT.
 
 <!--
 **Modulations/Modulations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
