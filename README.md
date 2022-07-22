@@ -9,7 +9,7 @@ Many of my projects hosted here are passion projects and are made out of a desir
 - [Other Works](https://hashbeep.itch.io)
 
 ## Development Experience
-- **Langauges:** Java, JS, C#, C++, PHP
+- **Langauges:** Java, JS, Python, C#, C++, PHP
 - **Databases:** MongoDB, SQL
 - **Game Engines:** Unity
 
