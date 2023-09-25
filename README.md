@@ -18,7 +18,7 @@ Many of my projects hosted here are passion projects and are made out of a desir
     - [First place winner for Hackerjam v2.](https://store.steampowered.com/news/app/365450/view/2515772501355319473)
     - Repository (Private)
 - **Hackerman:** A multiplayer hacking simulator.
-    - Repository (Private)
+    - [Repository](https://github.com/Modulations/hackerman)
 - **Maegic:** A WIP mod for Minecraft that introduces new magic-infused technology.
     - [Source Code](https://github.com/Modulations/Maegic)
 - **IT201 Projects:** A catalogue of my work and milestones for my IT201 course.
