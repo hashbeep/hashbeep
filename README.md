@@ -1,6 +1,6 @@
 ### My Profile
 
-Hi! I'm Hertz, an aspiring software developer.
+Hi! I'm Luke, an aspiring software developer.
 
 Many of my projects hosted here are passion projects and are made out of a desire to see my ideas become a reality.
 
